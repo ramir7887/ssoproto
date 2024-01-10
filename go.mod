@@ -1,4 +1,4 @@
-module protos
+module github.com/ramir7887/ssoproto
 
 go 1.21.5
 
